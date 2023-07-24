@@ -1,6 +1,6 @@
 # Course website
 
-The course website is available on [sib-swiss.github.io](https://sib-swiss.github.io/Introduction-FAIR-RDM-DMP/){:target="_blank"} 
+The course website is available on [sib-swiss.github.io](https://sib-swiss.github.io/Introduction-FAIR-RDM-DMP/) 
 
 
 # Credits
