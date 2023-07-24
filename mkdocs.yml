@@ -1,18 +1,12 @@
-site_name: My site
+site_name: FAIR Research Data Management & Data Management Plan
 nav:
     - Home: index.md
-    - Precourse preparations: precourse.md
     - Course schedule: course_schedule.md
-    - Exercises: exercises.md
 
 theme:
   name: material
   logo: assets/images/SIB_logo.svg
   favicon: assets/images/SIB_logo.svg
-
-# Repository
-repo_name: sib-swiss/course_website_template
-repo_url: https://github.com/sib-swiss/course_website_template
 
 markdown_extensions:
   - abbr

@@ -1,53 +1,41 @@
 # Course website
 
-## Material
+## __Speakers__
+* __Dr Vassilios Ioannidis__  
+Lead Computational Biologist - SIB/Vital-IT group  
+Data Steward, FAIR Specialist - UNIRIS - Direction UNIL  
+[[ORCID]](https://orcid.org/0000-0002-4209-2578){:target="_blank"}  
 
-* This website
-* Zoom meeting (through mail)
+* __Dr Cécile Lebrand__  
+Responsable du service de soutien pour la gestion des publications et des données de recherche FBM UNIL/CHUV - BiUM  
+Data Steward – UNIRIS - Direction UNIL  
+[[ORCID]](https://orcid.org/0000-0002-2750-3164){:target="_blank"}  
+
+* __Dr Grégoire Rossier__  
+Project Manager, SIB/Training/Vital-IT group  
+[[ORCID]](https://orcid.org/0000-0002-0065-5053){:target="_blank"}  
+ 
+
+
+## __Material__
+
 * Google doc (through mail)
-* [Slack channel](https://slack.com)
+* [Zenodo](https://zenodo.org/record/8159828){:target="_blank"}  
 
-## Learning outcomes
+## __Learning outcomes__
 
-### General learning outcomes
+### General learning outcomes  
 
-After this course, you will be able to:
+After this course, you will be able to:  
 
-### Learning outcomes explained
+* Manage the main steps of your research rata using good practices and guidelines (RDM)  
+* Understand the FAIR guiding principles and Open Data foundations  
+* Understand the requirements of a Data Management Plan (DMP)  
+* Use the [DSW](https://ds-wizard.org/){:target="_blank"} tool to complete your own DMP  
 
-To reach the general learning outcomes above, we have set a number of smaller learning outcomes. Each chapter starts with these smaller learning outcomes. Use these at the start of a chapter to get an idea what you will learn. Use them also at the end of a chapter to evaluate whether you have learned what you were expected to learn.
+## __Learning experiences__
 
-## Learning experiences
-
-To reach the learning outcomes we will use lectures, exercises, polls and group work. During exercises, you are free to discuss with other participants. During lectures, focus on the lecture only.
-
-### Exercises
-
-Each block has practical work involved. Some more than others. The practicals are subdivided into chapters, and we'll have a (short) discussion after each chapter. All answers to the practicals are incorporated, but they are hidden. Do the exercise first by yourself, before checking out the answer. If your answer is different from the answer in the practicals, try to figure out why they are different.
+This course consists of lectures, exercises and polls.  
 
 ### Asking questions
-During lectures, you are encouraged to raise your hand if you have questions (if in-person), or use the Zoom functionality (if online). Find the buttons in the participants list ('Participants' button):
-
-<figure>
-  <img src="assets/images/zoom_icons.png" width="300"/>
-</figure>
-
-Alternatively, (depending on your zoom version or OS) use the 'Reactions' button:
-
-<figure>
-  <img src="assets/images/reactions_zoom.png" width="200"/>
-</figure>
-
-A main source of communication will be our [slack channel](https://www.slack.com). Ask background questions that interest you personally at **#background**. During the exercises, e.g. if you are stuck or don't understand what is going on, use the slack channel **#q-and-a**.  This channel is not only meant for asking questions but also for answering questions of other participants. If you are replying to a question, use the "reply in thread" option:
-
-<figure>
-  <img src="assets/images/reply_in_thread.png" width="350"/>
-</figure>
-
-The teacher will review the answers, and add/modify if necessary. If you're really stuck and need specific tutor support, write the teachers or helpers personally.
-
-**To summarise:**
-
-* During lectures: raise hand/zoom functionality
-* Personal interest questions: **#background**
-* During exercises: **\#q-and-a** on slack
+During lectures, you are encouraged to raise your hand if you have questions.
